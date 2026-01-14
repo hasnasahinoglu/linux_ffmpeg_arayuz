@@ -10,7 +10,7 @@
   - [GUI (Grafik Arayüz)](#gui-grafik-arayüz)
   - [TUI (Terminal Arayüz)](#tui-terminal-arayüz)
 - [Teknik Detaylar](#teknik-detaylar)
-- [Video Demo](#video-demo)
+
 
 
 ## 🎯 Proje Hakkında
@@ -278,11 +278,6 @@ ffmpeg -i [input] \
   [output]
 ```
 
-
-
-## 🎥 Video Demo
-
-### YouTube Tanıtım Videosu
 
 [![Pardus ffmpeg Frontend - Demo](https://img.youtube.com/vi/VIDEO_ID_BURAYA/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_BURAYA)
 
