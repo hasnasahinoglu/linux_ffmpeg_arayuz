@@ -74,8 +74,8 @@ bc          # Matematiksel hesaplamalar
 
 1. **Depoyu klonlayın:**
 ```bash
-git clone https://github.com/hasnasahinoglu/pardus_ffmpeg_arayuz.git
-cd pardus_ffmpeg_arayuz
+git clone https://github.com/hasnasahinoglu/linux_ffmpeg_arayuz.git
+cd linux_ffmpeg_arayuz
 ```
 
 2. **Kurulum scriptini çalıştırın:**
