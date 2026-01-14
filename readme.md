@@ -15,8 +15,9 @@
 
 ## 🎯 Proje Hakkında
 
-**Pardus ffmpeg Frontend**, `ffmpeg` aracı için geliştirilmiş, kullanıcı dostu bir arayüz uygulamasıdır. Bu proje, **Linux Scriptleri ve Araçları** dersi kapsamında, tamamen **Shell Script (Bash)** kullanılarak geliştirilmiştir.
+**Pardus ffmpeg Frontend**, `ffmpeg` aracı için geliştirilmiş, kullanıcı dostu bir arayüz uygulamasıdır. Bu proje, **Linux Scriptleri ve Araçları** dersi kapsamında, tamamen **Shell Script (Bash)** kullanılarak geliştirilmiştir. Uygulama Pardus işletim sisteminde de test edilmiştir ve çalışmaktadır.
 
+![-Pardus](screenshots/pardus.jpeg)
 
 
 ## ✨ Özellikler
